@@ -1,0 +1,22 @@
+{
+  "name": "tropicali",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Laura",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laurasirco/tropicali.git"
+  },
+  "bugs": {
+    "url": "https://github.com/laurasirco/tropicali/issues"
+  },
+  "homepage": "https://github.com/laurasirco/tropicali#readme",
+  "description": "",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
